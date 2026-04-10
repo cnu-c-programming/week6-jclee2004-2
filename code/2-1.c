@@ -20,7 +20,7 @@ int main() {
     }
     printf("\n");
 
-    printf_arr(arr,5);
+    print_arr(arr,5);
 
     return 0;
 }
